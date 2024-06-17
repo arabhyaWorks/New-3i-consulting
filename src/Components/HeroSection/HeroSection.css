@@ -1,0 +1,65 @@
+
+.heroContainer .carousel-indicators{
+    position: absolute;
+    bottom: -2rem;
+    /* margin-bottom: 10%; */
+} 
+.carousel-inner{
+    margin-bottom: 5%;
+}
+.heroContainer .carousel-indicators li{
+background-color: #D9D9D9;
+}
+.heroContainer .carousel-indicators .active{
+    background: linear-gradient(to right, #5ac7f2, #52bce5, #4bb0d8, #43a5cb, #3c9abe, #3893b6, #338cad, #2f85a5, #2d809f, #2a7b98, #287692, #26718c );
+}
+
+/* Mobile Phones (Portrait) */
+@media only screen and (max-width: 480px) {
+    .heroContainer .carousel-control-prev img{
+        height: 20px;
+    }
+    .heroContainer .carousel-control-next img{
+        height: 20px;
+    }
+    .heroContainer .carousel-indicators li{
+        width: 20px;
+    }
+  }
+  
+  /* Mobile Phones (Landscape) */
+  @media only screen and (min-width: 481px) and (max-width: 767px) {
+    .heroContainer .carousel-control-prev img{
+        height: 30px;
+    }
+    .heroContainer .carousel-control-next img{
+        height: 30px;
+    }
+  }
+  
+  /* Tablets (Portrait) */
+  @media only screen and (min-width: 768px) and (max-width: 991px) {
+    .heroContainer .carousel-control-prev img{
+        height: 40px;
+    }
+    .heroContainer .carousel-control-next img{
+        height: 40px;
+    }
+  }
+
+  @media only screen and (min-width: 1440px) {
+    .heroContainer .carousel-control-prev img{
+        height: 80px;
+    }
+    .heroContainer .carousel-control-next img{
+        height: 80px;
+    }
+    .heroContainer .carousel-indicators li{
+        width: 100px;
+        height: 6px;
+    }
+    .heroContainer .carousel-indicators{
+        bottom: -3rem;
+    } 
+  }
+  

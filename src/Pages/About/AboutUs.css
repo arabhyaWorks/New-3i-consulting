@@ -1,0 +1,489 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap');
+
+
+.AboutUsTopImage{
+    /* border: solid red 5px !important; */
+    margin-bottom: 10%;
+}
+.contactSection1{
+    display: flex;
+}
+.section1Img{
+    width: 50%;
+    margin-bottom: 5%;
+}
+.section1Content{
+    width: 50%;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom: 5%;
+
+}
+.section1Content h1{
+   font-family: 'poppins' , sans-serif ;
+    font-weight: 800;
+    
+}
+.section1Content p{
+    font-family: "Inter", sans-serif;
+    color: #7D7D7D;
+    word-spacing: 4px;
+    text-align: justify; /* This will justify the text */
+    text-align-last: left; /* This will center the last line */
+}
+ .section1Content h6{
+    font-family: "Inter", sans-serif;
+}
+.section1Content button{
+    color: white;
+    background-color: #33B1E9;
+    font-size: small;
+    font-family: "Inter", sans-serif;
+    font-weight: 500;
+}
+.contactSection2{
+    display: flex;
+    margin-bottom: 5%;
+}
+.section2Img{
+    width: 50%;
+    margin-bottom: 5% !important;
+}
+.section2Content{
+    width: 50%;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom: 5%;
+
+}
+.section2Content h1{
+    font-family: 'poppins' , sans-serif ;
+     font-weight: 800;
+}
+.section2Content p{
+    font-family: "Inter", sans-serif;
+    color: #7D7D7D;
+    word-spacing: 4px;
+    text-align: justify; /* This will justify the text */
+    text-align-last: left; /* This will center the last line */
+}
+ .section2Content h6{
+    font-family: "Inter", sans-serif;
+}
+/*  */
+.contactSection3{
+    display: flex;
+    margin-bottom: 5%;
+}
+.section3Img{
+    width: 50%;
+    margin-bottom: 5% !important;
+}
+.section3Content{
+    width: 50%;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom: 5%;
+
+}
+.section3Content h1{
+    font-family: 'poppins' , sans-serif ;
+     font-weight: 800;
+}
+.section3Content p{
+    font-family: "Inter", sans-serif;
+    color: #7D7D7D;
+    word-spacing: 4px;
+    text-align: justify; /* This will justify the text */
+    text-align-last: left; /* This will center the last line */
+}
+ .section3Content h6{
+    font-family: "Inter", sans-serif;
+}
+.contactSection4{
+    background-image: url('../../Assets/Images/Group\ 11664.png');
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position: 100% 100%;
+}
+.videoContainer{
+    width: 100% !important;
+    height: 100% !important;
+    padding: 10rem;
+    /* border: solid red 5px; */
+    visibility: hidden;
+}
+.contactRow{
+    justify-content: center;
+}
+/* Mobile Phones (Portrait) */
+@media only screen and (max-width: 480px) {
+    .section1Content h6 {
+        font-size: 1rem;
+      }
+      .section1Content h1 {
+        font-size: 1.5rem;
+      }
+      .section1Content p {
+        font-size: 0.8rem;
+      }
+      .section1Content button {
+        font-size: 1rem;
+      }
+      /* section 2 */
+      .section2Content h6 {
+        font-size: 1rem;
+      }
+      .section2Content h1 {
+        font-size: 1.5rem;
+      }
+      .section2Content p {
+        font-size: 0.8rem;
+      }
+      /* section 3 */
+      .section3Content h6 {
+        font-size: 1rem;
+      }
+      .section3Content h1 {
+        font-size: 1.5rem;
+      }
+      .section3Content p {
+        font-size: 0.8rem;
+      }
+    .contactSection1{
+        flex-direction: column;
+    }
+    .section1Img{
+        width: 100%;
+        align-self: center;
+    }
+    .section1Content{
+        width: 90%;
+        margin: 1rem;
+    }
+    /* section 2 */
+    .contactSection2{
+        flex-direction: column;
+    }
+    .section2Img{
+        order: -1;
+        width: 100%;
+    }
+    .section2Content{
+        width: 90%;
+        margin: 1rem;
+    }
+    /* section 3 */
+    .contactSection3{
+        flex-direction: column;
+    }
+    .section3Img{
+        width: 100%;
+    }
+    .section3Content{
+        width: 90%;
+        margin: 1rem;
+    }
+    /* section 4 */
+    .contactSection4 {
+        background-position: center;
+    }
+    /* contact card */
+    .contactCard{
+        margin: 1rem;
+    }
+    .contactCardImg{
+        width: 30%;
+        align-self: center;
+    }
+    .projectsSectionContent h1{
+        font-size: 1.5rem !important;
+    }
+    
+
+  }
+
+  
+  /* Mobile Devices (Portrait) */
+@media only screen and (min-width: 481px) and (max-width: 767px) {
+    .section1Content h6 {
+      font-size: 1rem;
+    }
+    .section1Content h1 {
+      font-size: 1.5rem;
+    }
+    .section1Content p {
+      font-size: 0.8rem;
+    }
+    .section1Content button {
+      font-size: 1rem;
+    }
+    /* section 2 */
+    .section2Content h6 {
+      font-size: 1rem;
+    }
+    .section2Content h1 {
+      font-size: 1.5rem;
+    }
+    .section2Content p {
+      font-size: 0.8rem;
+    }
+    /* section 3 */
+    .section3Content h6 {
+      font-size: 1rem;
+    }
+    .section3Content h1 {
+      font-size: 1.5rem;
+    }
+    .section3Content p {
+      font-size: 0.8rem;
+    }
+    .contactSection1 {
+      flex-direction: column;
+    }
+    .section1Img {
+      width: 80%;
+      align-self: center;
+    }
+    .section1Content {
+      width: 90%;
+    }
+    /* section 2 */
+    .contactSection2 {
+      flex-direction: column;
+    }
+    .section2Img {
+      order: -1; /* Move image to the top */
+      align-self: center;
+      width: 100% !important;
+    }
+    .section2Content {
+      width: 90%;
+    }
+    /* section 3 */
+    .contactSection3 {
+      flex-direction: column;
+    }
+    .section3Img {
+      align-self: center;
+      width: 50%;
+    }
+    .section3Content {
+      width: 90%;
+    }
+    /* section 4 */
+    .contactSection4 {
+      background-position: center;
+    }
+    /* contact card */
+    .contactCard {
+      margin: 1rem;
+    }
+    .contactCardImg{
+        width: 30%;
+        align-self: center;
+    }
+  }
+      
+  /* Tablets (Portrait) */
+  @media only screen and (min-width: 768px) and (max-width: 992px) {
+    .section1Content h6 {
+        font-size: 0.8rem;
+    }
+    .section1Content h1 {
+        font-size: 1.5rem;   
+    }
+    .section1Content p {
+        font-size: 0.8rem;
+    }
+    .section1Content button {
+        font-size: 0.8rem    
+    }
+    /* section 2 */
+    .section2Content h6 {
+        font-size: 0.8rem;
+    }
+    .section2Content h1 {
+        font-size: 1.5rem;   
+    }
+    .section2Content p {
+        font-size: 0.8rem;
+    }
+    .section2Content button {
+        font-size: 0.8rem    
+    }
+    /* section 3 */
+    .section3Content h6 {
+        font-size: 0.8rem;
+    }
+    .section3Content h1 {
+        font-size: 1.5rem;   
+    }
+    .section3Content p {
+        font-size: 0.8rem;
+    }
+    .section3Content button {
+        font-size: 0.8rem    
+    }
+    .section1Img {
+        width: 65%;
+    }
+    /* section 2 */
+    .section2Img {
+        width: 65%;
+    }
+    /* section 3 */
+    .section3Img {
+        width: 65%;
+    }
+     /* section 4 */
+     .contactSection4 {
+        background-position: center;
+    }
+  }
+  
+  /* Tablets (Landscape) */
+  @media only screen and (min-width: 992px) and (max-width: 1023px) {
+    .section1Content h6 {
+        font-size: 0.8rem;
+    }
+    .section1Content h1 {
+        font-size: 1.5rem;   
+    }
+    .section1Content p {
+        font-size: 0.8rem;
+    }
+    .section1Content button {
+        font-size: 0.8rem    
+    }
+    /* section 2 */
+    .section2Content h6 {
+        font-size: 0.8rem;
+    }
+    .section2Content h1 {
+        font-size: 1.5rem;   
+    }
+    .section2Content p {
+        font-size: 0.8rem;
+    }
+    .section2Content button {
+        font-size: 0.8rem    
+    }
+    /* section 3 */
+    .section3Content h6 {
+        font-size: 0.8rem;
+    }
+    .section3Content h1 {
+        font-size: 1.5rem;   
+    }
+    .section3Content p {
+        font-size: 0.8rem;
+    }
+    .section3Content button {
+        font-size: 0.8rem    
+    }
+    
+  }
+  
+  /* Small Laptops and Desktops */
+  @media only screen and (min-width: 1024px) and (max-width: 1439px) {
+    .section1Content h6 {
+        font-size: 1rem;
+    }
+    .section1Content h1 {
+        font-size: 2rem;   
+    }
+    .section1Content p {
+        font-size: 1rem;
+    }
+    .section1Content button {
+        font-size: 1rem    
+    }
+    /* section 2 */
+    .section2Content h6 {
+        font-size: 1rem;
+    }
+    .section2Content h1 {
+        font-size: 2rem;   
+    }
+    .section2Content p {
+        font-size: 1rem;
+    }
+    .section2Content button {
+        font-size: 1rem    
+    }
+    /* section 3 */
+    .section3Content h6 {
+        font-size: 1rem;
+    }
+    .section3Content h1 {
+        font-size: 2rem;   
+    }
+    .section3Content p {
+        font-size: 1rem;
+    }
+    .section3Content button {
+        font-size: 1rem    
+    }
+    .videoContainer{
+        align-self: center;
+        justify-content: center;
+        align-items: center;
+    }
+  }
+  
+  /* Medium to Large Desktops */
+  /* @media only screen and (min-width: 1200px) and (max-width: 1439px) {
+
+  } */
+  
+  /* Large Desktops and TVs */
+  @media only screen and (min-width: 1450px)  and (max-width: 2500px){
+    .section1Content h6 {
+        font-size: 1.5rem;
+    }
+    .section1Content h1 {
+        font-size: 3rem;   
+    }
+    .section1Content p {
+        font-size: 1.3rem;
+    }
+    .section1Content button {
+        font-size: 1.5rem    
+    }
+    /* section 2 */
+    .section2Content h6 {
+        font-size: 2rem;
+    }
+    .section2Content h1 {
+        font-size: 3.5rem;   
+    }
+    .section2Content p {
+        font-size: 1.5rem;
+    }
+    /* section 3 */
+    .section3Content h6 {
+        font-size: 2rem;
+    }
+    .section3Content h1 {
+        font-size: 3.5rem;   
+    }
+    .section3Content p {
+        font-size: 1.5rem;
+    }
+     /* section 4 */
+     .contactSection4 {
+        /* border: solid red 5px !important;  */
+        height: 600px !important;
+        background-position: top;
+    }
+}

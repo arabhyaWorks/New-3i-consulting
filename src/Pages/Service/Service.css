@@ -1,0 +1,104 @@
+.ServiceSection{
+    background-image: url('../../Assets/Images/serviceBg.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 100% 100%;
+}
+.ServiceSection h3{
+    font-weight: 900;
+}
+.serviceBoxContainer{
+    padding: 8rem 0;
+}
+.serviceRow{
+    display: flex;
+    justify-content: center !important;
+    align-items: stretch;
+    
+}
+.serviceCard{
+    display: flex;
+}
+.contentBox{
+    display: flex;
+    background-color: white;
+    box-shadow: #bae5f8 0px 2px 8px 0px;
+    margin-bottom: 1rem;
+    flex: 0 0 100% !important;
+    padding: 1rem;
+    border-radius: 20px;
+
+}
+.contentBox h1{
+    margin-bottom: 0;
+    color: #00587F;
+}
+.contentBox h3{
+    color: #00344C;
+    font-weight: 500;
+}
+.contentBox div:nth-child(1){
+    width: 30%;
+    height: 30%;
+    padding: 0 1rem;
+    text-align: center;
+    background-color: #33b1e98c;
+    color: #00587F;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    margin-right: 1rem;
+}
+.latestTechContainer{
+    display: flex;
+}
+.techImg{
+    width: 50%;
+   
+}
+.techImg img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 25px;
+}
+.techContent{
+    width: 50%;
+}
+.techContent ul{
+    list-style-type: none;
+}
+.serviceTabContent h6{
+    color: orange;
+    margin-bottom: 2rem;
+}
+.serviceTabs .nav-link{
+    color: black;
+    background-color: #dcdcdc45;
+    border-radius: 10px;
+    padding: 1rem;
+    margin-right: .5rem;
+}
+.serviceTabs .nav-link.active {
+    background-color: #7161ef96 !important;
+    border-radius: 10px;
+    padding: 1rem;
+}
+/* Mobile Phones (Landscape) */
+@media only screen and (max-width: 767px) {
+    .latestTechContainer{
+        flex-direction: column;
+        padding: 0;
+    }
+    .techImg{
+        width: 100%;
+       
+    }
+    .techContent{
+        width: 100%;
+    }
+    .techContent ul{
+        list-style-type: none;
+    }
+    
+  }
