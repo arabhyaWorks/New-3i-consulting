@@ -4,8 +4,12 @@ import { useLocation } from "react-router-dom";
 
 import heroImg from "../../Assets/Images/Rectangle 852.png";
 import "./DetailedProduct.css";
+import liCheckImg from "../../Assets/Images/fi_check-circle.png";
 import squareBoxes from "../../Assets/Images/detailedPrdctBox.png";
 import squareBlueBox from "../../Assets/Images/Rectangle 8.png";
+import firstImg from "../../Assets/Images/Rectangle 443 (1).png";
+import secondImg from "../../Assets/Images/Rectangle 443 (2).png";
+import thirdImg from "../../Assets/Images/Rectangle 443-3.png";
 import { useParams } from "react-router";
 import { AllProduct } from "../../Context/AllProduct";
 import { Link } from "react-router-dom";
@@ -24,13 +28,9 @@ function DetailedProduct(props) {
 
   return (
     <>
-      <img src={product.bannerImage} style={{ width: "100%" }} />
+      <HeroSection img={[product.bannerImage]} />
       <div className="detailedProductContainer p-0 my-5 container-fluid">
         <h1 className="text-center">{product.name}</h1>
-
-        <div className="container my-5 p-0 ">
-          <p className="proDescription text-center">{product.description}</p>
-        </div>
         {/* <div className="detailedProductImgContainer">
           <img src={product.bannerImg} />
           <div className="detailedProductImgContent container-fluid p-0">
@@ -46,6 +46,7 @@ function DetailedProduct(props) {
               src={squareBoxes}
             />
           </div>
+          {/* <p className="container ">{product.description}</p> */}
         </div>
         <div className="container-fluid liveProjectContainer">
           <div className="text-center">
