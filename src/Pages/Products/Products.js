@@ -48,14 +48,21 @@ export default function Products() {
                         {index + 1}. {item.name}
                       </h2>
                       <p className="text-muted">{item.description}</p>
-                      <button
-                        className="btn"
-                        onClick={() => {
-                          navigate("/detailed", { state: item });
+                      <div
+                        style={{
+                          display: "flex",
+                          justifyContent: "flex-start",
                         }}
                       >
-                        <p>Read More</p>
-                      </button>
+                        <p
+                          className="ReadMore"
+                          onClick={() => {
+                            navigate("/detailed", { state: item });
+                          }}
+                        >
+                          Read More
+                        </p>
+                      </div>
                     </div>
                   </div>
                 </div>
@@ -70,14 +77,21 @@ export default function Products() {
                       </h2>
                       <p className="text-muted">{item.description}</p>
                       <p className="text-muted"> What, Why and How?</p>
-                      <button
-                        className="btn"
-                        onClick={() => {
-                          navigate("/detailed", { state: item });
+                      <div
+                        style={{
+                          display: "flex",
+                          justifyContent: "flex-start",
                         }}
                       >
-                        <p>Read More</p>
-                      </button>
+                        <p
+                          className="ReadMore"
+                          onClick={() => {
+                            navigate("/detailed", { state: item });
+                          }}
+                        >
+                          Read More
+                        </p>
+                      </div>
                     </div>
                   </div>
                   <div className=" productSectionAImg">

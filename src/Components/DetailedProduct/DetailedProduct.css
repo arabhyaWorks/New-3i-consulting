@@ -97,11 +97,21 @@
   /* color: red; */
   font-size: 1.3rem;
 }
+.prodataDescription {
+  font-size: 10px;
+}
 
 .bannerImage {
   width: "100%";
   background-color: red;
   padding: 10px;
+}
+
+.Heading {
+  /* background-color: red; */
+  /* font-size: rem; */
+  font-size: 30px;
+  font-weight: 700;
 }
 
 /* Mobile Phones (Portrait) */

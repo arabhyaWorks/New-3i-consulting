@@ -12,6 +12,8 @@ import helpdeskImg from "../../Assets/Images/Group 11653.svg";
 import serverImg from "../../Assets/Images/Group 11659.svg";
 import { NavLink } from "react-router-dom";
 import LatestTechnology from "./LatestTechnology";
+import CostEffective from "./CostEffective";
+import CustomerCentricity from "./CustomerCentricity";
 
 function Service() {
   const [activeTab, setActiveTab] = useState("tech");
@@ -339,7 +341,7 @@ function Service() {
               role="tabpanel"
               aria-labelledby="pills-cost-tab"
             >
-              <LatestTechnology />
+              <CostEffective />
             </div>
             <div
               className={`tab-pane fade show ${
@@ -349,7 +351,7 @@ function Service() {
               role="tabpanel"
               aria-labelledby="pills-customer-tab"
             >
-              <LatestTechnology />
+              <CustomerCentricity />
             </div>
           </div>
         </div>
