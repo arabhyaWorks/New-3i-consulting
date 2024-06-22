@@ -52,10 +52,7 @@ function DetailedProduct(props) {
           <div>
             {product.projects.map((data, index) => {
               return (
-                <div
-                  style={{ padding: 10, backgroundColor: "red" }}
-                  className="container my-5 p-0 liveProjectSection"
-                >
+                <div className="container my-5 p-0 liveProjectSection">
                   <div className=" liveProjectSectionImg">
                     <img src={data.image} />
                   </div>
