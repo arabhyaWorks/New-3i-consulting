@@ -1,0 +1,279 @@
+{
+  "3I_Consulting": {
+    "banner_carosel": [
+      "https://firebasestorage.googleapis.com/v0/b/nagarnigamayodhya-2fb11.appspot.com/o/Banner%203_v1.jpg?alt=media&token=93c5196c-a596-469e-8ab4-607100b09ccb",
+      "https://firebasestorage.googleapis.com/v0/b/nagarnigamayodhya-2fb11.appspot.com/o/Banner%202_v1.jpg?alt=media&token=a82e8efd-ec2f-4455-b1dc-9ac51f7ba453",
+      "https://firebasestorage.googleapis.com/v0/b/backendintegration-2fdc3.appspot.com/o/Banner%201_v1.jpg?alt=media&token=3d13c48e-1f6b-42d6-ae9e-359c9a2a8243",
+      "https://firebasestorage.googleapis.com/v0/b/nagarnigamayodhya-2fb11.appspot.com/o/Banner%204_v1.jpg?alt=media&token=2a79ae75-b879-49df-a33c-7bce38f0d19b"
+    ],
+    "products": [
+      {
+        "bannerImage": "https://firebasestorage.googleapis.com/v0/b/backendintegration-2fdc3.appspot.com/o/pr1_mainImg.png?alt=media&token=ecb5b53b-eec0-4100-a071-71fdd56e7630",
+        "derivalableImage": "https://firebasestorage.googleapis.com/v0/b/backendintegration-2fdc3.appspot.com/o/pr1_derivalables.png?alt=media&token=874cd184-a7e8-4747-a385-f7a41ed300bd",
+        "description": "Our Temple Management System is a comprehensive solution designed to streamline and enhance the administration and operations of temples. This system integrates various functions to facilitate efficient management of temple activities, donations, events, and communications. By leveraging advanced technology, we aim to support temples in maintaining their spiritual and administrative responsibilities with ease and effectiveness.",
+        "name": "Temple Management System",
+        "mainImage": "https://firebasestorage.googleapis.com/v0/b/i-consulting-website.appspot.com/o/p1.jpeg?alt=media&token=ff070b73-5a10-4248-ba9a-7706efeae29e",
+        "projects": [
+          {
+            "description": "Shri Kashi Prasadam is a prominent e-commerce initiative developed by 3i Consulting in collaboration with the Shri Kashi Vishwanath Temple Trust (SKVT). This platform serves as the official online store for the Trust, offering a wide range of sacred and spiritual products to devotees across India. Shri Kashi Prasadam aims to bring the divine blessings of the Kashi Vishwanath Temple to people's doorsteps, making it easier for devotees to access authentic and sanctified items from the temple.",
+            "image": "https://firebasestorage.googleapis.com/v0/b/backendintegration-2fdc3.appspot.com/o/pr1_pr1.png?alt=media&token=5cf007f0-4184-4e36-accd-f69a48cbb291",
+            "name": "Kashi Prasadam",
+            "website": "https://shrikashiprasadam.com/"
+          },
+          {
+            "description": "The Protocol System developed for the Shri Kashi Vishwanath Temple Trust streamlines and automates various administrative and ceremonial protocols. This system manages visitor bookings, including special darshans and poojas, ensuring efficient scheduling and coordination. It also handles the management of dignitary visits and VIP services, providing a seamless experience for all involved. The system includes features for real-time updates, notifications, and comprehensive reporting, enhancing operational efficiency and user experience.",
+            "image": "https://firebasestorage.googleapis.com/v0/b/backendintegration-2fdc3.appspot.com/o/pr1_pr2.jpg?alt=media&token=50169cef-4d15-47e5-bdc7-1c208248fd3c",
+            "name": "Protocol System",
+            "website": "https://protocol.shrikashivishwanath.org/"
+          },
+          {
+            "description": "The Protocol System developed for the Shri Kashi Vishwanath Temple Trust streamlines and automates various administrative and ceremonial protocols. This system manages visitor bookings, including special darshans and poojas, ensuring efficient scheduling and coordination. It also handles the management of dignitary visits and VIP services, providing a seamless experience for all involved. The system includes features for real-time updates, notifications, and comprehensive reporting, enhancing operational efficiency and user experience.",
+            "image": "https://firebasestorage.googleapis.com/v0/b/backendintegration-2fdc3.appspot.com/o/pr1_pr2.jpg?alt=media&token=50169cef-4d15-47e5-bdc7-1c208248fd3c",
+            "name": "Devotee Support System",
+            "website": "https://shrikashivishwanath.org/customer-support"
+          },
+          {
+            "description": "The Protocol System developed for the Shri Kashi Vishwanath Temple Trust streamlines and automates various administrative and ceremonial protocols. This system manages visitor bookings, including special darshans and poojas, ensuring efficient scheduling and coordination. It also handles the management of dignitary visits and VIP services, providing a seamless experience for all involved. The system includes features for real-time updates, notifications, and comprehensive reporting, enhancing operational efficiency and user experience.",
+            "image": "https://firebasestorage.googleapis.com/v0/b/backendintegration-2fdc3.appspot.com/o/pr1_pr2.jpg?alt=media&token=50169cef-4d15-47e5-bdc7-1c208248fd3c",
+            "name": "POS",
+            "website": "https://shrikashivishwanath.org/customer-support"
+          }
+        ]
+      },
+      {
+        "bannerImage": "https://firebasestorage.googleapis.com/v0/b/backendintegration-2fdc3.appspot.com/o/pr1_mainImg.png?alt=media&token=ecb5b53b-eec0-4100-a071-71fdd56e7630",
+        "derivalableImage": "https://firebasestorage.googleapis.com/v0/b/backendintegration-2fdc3.appspot.com/o/pr1_derivalables.png?alt=media&token=874cd184-a7e8-4747-a385-f7a41ed300bd",
+        "description": "Our Human Resources Management System (HRMS) is a comprehensive solution designed to streamline and enhance the administration and operations of temples. This system integrates various functions to facilitate efficient management of temple activities, donations, events, and communications. By leveraging advanced technology, we aim to support temples in maintaining their spiritual and administrative responsibilities with ease and effectiveness.",
+        "name": "Human Resources Management System (HRMS)",
+        "mainImage": "https://firebasestorage.googleapis.com/v0/b/i-consulting-website.appspot.com/o/p2.jpeg?alt=media&token=21a64757-32fe-4b27-aa48-e1ebfcc76469",
+        "projects": [
+          {
+            "description": "The Ayodhya Development Authority (ADA) Payroll System is a comprehensive solution developed by 3i Consulting to streamline and automate the payroll process for ADA employees. This system integrates various functions to facilitate efficient payroll management, including salary calculation, deductions, and tax compliance. By leveraging advanced technology, we aim to support ADA in maintaining accurate and timely payroll operations, ensuring employee satisfaction and compliance with regulatory requirements.",
+            "image": "https://firebasestorage.googleapis.com/v0/b/backendintegration-2fdc3.appspot.com/o/pr1_pr1.png?alt=media&token=5cf007f0-4184-4e36-accd-f69a48cbb291",
+            "name": "Ayodhya Development Authority Payroll System",
+            "website": "https://hrms.ayodhyada.in/"
+          }
+        ]
+      },
+      {
+        "bannerImage": "https://firebasestorage.googleapis.com/v0/b/backendintegration-2fdc3.appspot.com/o/pr1_mainImg.png?alt=media&token=ecb5b53b-eec0-4100-a071-71fdd56e7630",
+        "derivalableImage": "https://firebasestorage.googleapis.com/v0/b/backendintegration-2fdc3.appspot.com/o/pr1_derivalables.png?alt=media&token=874cd184-a7e8-4747-a385-f7a41ed300bd",
+        "description": "Our Project Management System is a comprehensive solution designed to streamline and enhance the administration and operations of temples. This system integrates various functions to facilitate efficient management of temple activities, donations, events, and communications. By leveraging advanced technology, we aim to support temples in maintaining their spiritual and administrative responsibilities with ease and effectiveness.",
+        "name": "Project Management System",
+        "mainImage": "https://firebasestorage.googleapis.com/v0/b/i-consulting-website.appspot.com/o/p3.jpeg?alt=media&token=3d80efa3-15ed-4f66-8832-9b3f47bc69bb",
+        "projects": [
+          {
+            "description": "The Program Management System developed for the District Administration of Chandauli is a comprehensive solution designed to streamline and enhance the administration and operations of various government programs. This system integrates various functions to facilitate efficient program management, including project tracking, resource allocation, and reporting. By leveraging advanced technology, we aim to support the District Administration in maintaining effective oversight and coordination of programs, ensuring successful outcomes and stakeholder satisfaction.",
+            "image": "https://firebasestorage.googleapis.com/v0/b/backendintegration-2fdc3.appspot.com/o/pr1_pr1.png?alt=media&token=5cf007f0-4184-4e36-accd-f69a48cbb291",
+            "name": "Program Management System Chandauli",
+            "website": "https://pmschandauli.com/index.php"
+          },
+          {
+            "description": "The Program Management Unit (PMU) Ayodhya is a comprehensive solution developed by 3i Consulting to streamline and enhance the administration and operations of various government programs in Ayodhya. This system integrates various functions to facilitate efficient program management, including project tracking, resource allocation, and reporting. By leveraging advanced technology, we aim to support the District Administration in maintaining effective oversight and coordination of programs, ensuring successful outcomes and stakeholder satisfaction.",
+            "image": "https://firebasestorage.googleapis.com/v0/b/backendintegration-2fdc3.appspot.com/o/pr1_pr1.png?alt=media&token=5cf007f0-4184-4e36-accd-f69a48cbb291",
+            "name": "Program Management Unit Ayodhya",
+            "website": "https://pmoay.com/ayodhyann/"
+          },
+          {
+            "description": "The Program Management Unit (PMU) Varanasi is a comprehensive solution developed by 3i Consulting to streamline and enhance the administration and operations of various government programs in Varanasi. This system integrates various functions to facilitate efficient program management, including project tracking, resource allocation, and reporting. By leveraging advanced technology, we aim to support the District Administration in maintaining effective oversight and coordination of programs, ensuring successful outcomes and stakeholder satisfaction.",
+            "image": "https://firebasestorage.googleapis.com/v0/b/backendintegration-2fdc3.appspot.com/o/pr1_pr1.png?alt=media&token=5cf007f0-4184-4e36-accd-f69a48cbb291",
+            "name": "Program Management Unit Varanasi",
+            "website": "https://pmovns.com/"
+          }
+        ]
+      },
+      {
+        "bannerImage": "https://firebasestorage.googleapis.com/v0/b/backendintegration-2fdc3.appspot.com/o/pr1_mainImg.png?alt=media&token=ecb5b53b-eec0-4100-a071-71fdd56e7630",
+        "derivalableImage": "https://firebasestorage.googleapis.com/v0/b/backendintegration-2fdc3.appspot.com/o/pr1_derivalables.png?alt=media&token=874cd184-a7e8-4747-a385-f7a41ed300bd",
+        "description": "Our Property Management System is a comprehensive solution designed to streamline and enhance the administration and operations of temples. This system integrates various functions to facilitate efficient management of temple activities, donations, events, and communications. By leveraging advanced technology, we aim to support temples in maintaining their spiritual and administrative responsibilities with ease and effectiveness.",
+        "name": "Property Management System",
+        "mainImage": "https://firebasestorage.googleapis.com/v0/b/i-consulting-website.appspot.com/o/p4.jpeg?alt=media&token=29e3ecbe-7641-4f36-a6fd-74577a5f593f",
+        "projects": [
+          {
+            "description": "The Shop Rental System developed for the Shri Kashi Vishwanath Temple Trust is a comprehensive solution designed to streamline and enhance the management of shop rentals within the temple premises. This system integrates various functions to facilitate efficient rental management, including tenant registration, lease agreements, and payment processing. By leveraging advanced technology, we aim to support the Trust in maintaining accurate records, ensuring compliance with rental policies, and enhancing tenant satisfaction.",
+            "image": "https://firebasestorage.googleapis.com/v0/b/backendintegration-2fdc3.appspot.com/o/pr1_pr1.png?alt=media&token=5cf007f0-4184-4e36-accd-f69a48cbb291",
+            "name": "Shop Rental System",
+            "website": "https://shopnrent.com/"
+          },
+          {
+            "description": "The Property Management System developed for the Shri Kashi Vishwanath Temple Trust is a comprehensive solution designed to streamline and enhance the management of temple properties. This system integrates various functions to facilitate efficient property management, including asset tracking, maintenance scheduling, and revenue generation. By leveraging advanced technology, we aim to support the Trust in maintaining accurate records, ensuring compliance with regulatory requirements, and optimizing property utilization.",
+            "image": "https://firebasestorage.googleapis.com/v0/b/backendintegration-2fdc3.appspot.com/o/pr1_pr1.png?alt=media&token=5cf007f0-4184-4e36-accd-f69a48cbb291",
+            "name": "Property Management",
+            "website": "https://oojus.com/property/Property/Property/index"
+          }
+        ]
+      },
+      {
+        "bannerImage": "https://firebasestorage.googleapis.com/v0/b/backendintegration-2fdc3.appspot.com/o/pr1_mainImg.png?alt=media&token=ecb5b53b-eec0-4100-a071-71fdd56e7630",
+        "derivalableImage": "https://firebasestorage.googleapis.com/v0/b/backendintegration-2fdc3.appspot.com/o/pr1_derivalables.png?alt=media&token=874cd184-a7e8-4747-a385-f7a41ed300bd",
+        "description": "Our OPD Booking System is a comprehensive solution designed to streamline and enhance the administration and operations of temples. This system integrates various functions to facilitate efficient management of temple activities, donations, events, and communications. By leveraging advanced technology, we aim to support temples in maintaining their spiritual and administrative responsibilities with ease and effectiveness.",
+        "name": "OPD Booking System",
+        "mainImage": "https://firebasestorage.googleapis.com/v0/b/i-consulting-website.appspot.com/o/p5.jpeg?alt=media&token=0fa4478e-f79d-48ea-a64e-69f28842a075",
+        "projects": [
+          {
+            "description": "The Shop Rental System developed for the Shri Kashi Vishwanath Temple Trust is a comprehensive solution designed to streamline and enhance the management of shop rentals within the temple premises. This system integrates various functions to facilitate efficient rental management, including tenant registration, lease agreements, and payment processing. By leveraging advanced technology, we aim to support the Trust in maintaining accurate records, ensuring compliance with rental policies, and enhancing tenant satisfaction.",
+            "image": "https://firebasestorage.googleapis.com/v0/b/backendintegration-2fdc3.appspot.com/o/pr1_pr1.png?alt=media&token=5cf007f0-4184-4e36-accd-f69a48cbb291",
+            "name": "BHU OPD Booking",
+            "website": "https://www.bhuopd.com/"
+          }
+        ]
+      },
+      {
+        "bannerImage": "https://firebasestorage.googleapis.com/v0/b/backendintegration-2fdc3.appspot.com/o/pr1_mainImg.png?alt=media&token=ecb5b53b-eec0-4100-a071-71fdd56e7630",
+        "derivalableImage": "https://firebasestorage.googleapis.com/v0/b/backendintegration-2fdc3.appspot.com/o/pr1_derivalables.png?alt=media&token=874cd184-a7e8-4747-a385-f7a41ed300bd",
+        "description": "Our Lab Report Monitoring System is a comprehensive solution designed to streamline and enhance the administration and operations of temples. This system integrates various functions to facilitate efficient management of temple activities, donations, events, and communications. By leveraging advanced technology, we aim to support temples in maintaining their spiritual and administrative responsibilities with ease and effectiveness.",
+        "name": "Lab Report Monitering",
+        "mainImage": "https://firebasestorage.googleapis.com/v0/b/i-consulting-website.appspot.com/o/p5.jpeg?alt=media&token=0fa4478e-f79d-48ea-a64e-69f28842a075",
+        "projects": [
+          {
+            "description": "Lab Mitra is a comprehensive solution developed by 3i Consulting to streamline and enhance the administration and operations of various government programs in Varanasi. This system integrates various functions to facilitate efficient program management, including project tracking, resource allocation, and reporting. By leveraging advanced technology, we aim to support the District Administration in maintaining effective oversight and coordination of programs, ensuring successful outcomes and stakeholder satisfaction.",
+            "image": "https://firebasestorage.googleapis.com/v0/b/backendintegration-2fdc3.appspot.com/o/pr1_pr1.png?alt=media&token=5cf007f0-4184-4e36-accd-f69a48cbb291",
+            "name": "Lab Mitra Varanasi",
+            "website": "https://www.bhuopd.com/"
+          }
+        ]
+      },
+      {
+        "bannerImage": "https://firebasestorage.googleapis.com/v0/b/backendintegration-2fdc3.appspot.com/o/pr1_mainImg.png?alt=media&token=ecb5b53b-eec0-4100-a071-71fdd56e7630",
+        "derivalableImage": "https://firebasestorage.googleapis.com/v0/b/backendintegration-2fdc3.appspot.com/o/pr1_derivalables.png?alt=media&token=874cd184-a7e8-4747-a385-f7a41ed300bd",
+        "description": "Our Learning Management System is a comprehensive solution designed to streamline and enhance the administration and operations of temples. This system integrates various functions to facilitate efficient management of temple activities, donations, events, and communications. By leveraging advanced technology, we aim to support temples in maintaining their spiritual and administrative responsibilities with ease and effectiveness.",
+        "name": "Learning Management System",
+        "mainImage": "https://firebasestorage.googleapis.com/v0/b/i-consulting-website.appspot.com/o/p7.jpeg?alt=media&token=5489b710-1c68-4d13-a6c5-1f45f5d5bd1b",
+        "projects": [
+          {
+            "description": "Yojus Learning Management System (LMS) is a comprehensive solution developed by 3i Consulting to streamline and enhance the administration and operations of various government programs in Varanasi. This system integrates various functions to facilitate efficient program management, including project tracking, resource allocation, and reporting. By leveraging advanced technology, we aim to support the District Administration in maintaining effective oversight and coordination of programs, ensuring successful outcomes and stakeholder satisfaction.",
+            "image": "https://firebasestorage.googleapis.com/v0/b/backendintegration-2fdc3.appspot.com/o/pr1_pr1.png?alt=media&token=5cf007f0-4184-4e36-accd-f69a48cbb291",
+            "name": "Yojus LMS",
+            "website": "https://www.bhuopd.com/"
+          }
+        ]
+      },
+      {
+        "bannerImage": "https://firebasestorage.googleapis.com/v0/b/backendintegration-2fdc3.appspot.com/o/pr1_mainImg.png?alt=media&token=ecb5b53b-eec0-4100-a071-71fdd56e7630",
+        "derivalableImage": "https://firebasestorage.googleapis.com/v0/b/backendintegration-2fdc3.appspot.com/o/pr1_derivalables.png?alt=media&token=874cd184-a7e8-4747-a385-f7a41ed300bd",
+        "description": "The Legal Management System (LMS) developed by 3i Consulting is an advanced solution designed to streamline and enhance the management of legal cases, documents, and client interactions. Tailored for law firms, corporate legal departments, and legal professionals, this system provides comprehensive tools to manage all aspects of legal practice efficiently. The Legal Management System integrates modern technology to improve case tracking, document management, client communication, and compliance, ensuring seamless and effective legal operations.",
+        "name": "Legal Management System",
+        "mainImage": "https://firebasestorage.googleapis.com/v0/b/i-consulting-website.appspot.com/o/p8.jpeg?alt=media&token=afcb6358-b44b-4089-a2be-461586e1bd4a",
+        "projects": [
+          {
+            "description": "The Legal Case Management System developed for the Ayodhya Development Authority is designed to streamline and automate the management of legal cases. This system provides features for tracking case details, scheduling court dates, managing documents, and generating reports. It ensures efficient handling of legal processes and enhances communication between legal teams. The platform is user-friendly, offering secure access to authorized personnel and real-time updates on case status.",
+            "image": "https://firebasestorage.googleapis.com/v0/b/backendintegration-2fdc3.appspot.com/o/pr1_pr1.png?alt=media&token=5cf007f0-4184-4e36-accd-f69a48cbb291",
+            "name": "Legal Case Monitiring System",
+            "website": "https://legal.ayodhyada.in/"
+          }
+        ]
+      },
+      {
+        "bannerImage": "https://firebasestorage.googleapis.com/v0/b/backendintegration-2fdc3.appspot.com/o/pr1_mainImg.png?alt=media&token=ecb5b53b-eec0-4100-a071-71fdd56e7630",
+        "derivalableImage": "https://firebasestorage.googleapis.com/v0/b/backendintegration-2fdc3.appspot.com/o/pr1_derivalables.png?alt=media&token=874cd184-a7e8-4747-a385-f7a41ed300bd",
+        "description": "The Shop Rental System developed by 3i Consulting is a comprehensive platform designed to streamline and manage the rental processes for shopping malls, marketplaces, and commercial property managers. This system provides a centralized solution for handling tenant applications, lease agreements, rent collection, and maintenance requests. By integrating advanced technology and user-friendly features, the Shop Rental System ensures efficient and transparent management of commercial rental properties.",
+        "name": "Shop Rental System",
+        "mainImage": "https://firebasestorage.googleapis.com/v0/b/i-consulting-website.appspot.com/o/p9.png?alt=media&token=38801d36-4ee6-4686-9cfa-a0a694f55d54",
+        "projects": [
+          {
+            "description": "The Shop Rent System is designed to manage the rental processes for commercial properties efficiently. It offers features such as tenant management, rental agreements, payment tracking, and maintenance requests. The system streamlines operations for property owners and managers, ensuring seamless communication with tenants, automated reminders for rent payments, and comprehensive reporting tools. This user-friendly platform enhances the overall management and administration of rental properties.",
+            "image": "https://firebasestorage.googleapis.com/v0/b/backendintegration-2fdc3.appspot.com/o/pr1_pr1.png?alt=media&token=5cf007f0-4184-4e36-accd-f69a48cbb291",
+            "name": "Shop Rental System",
+            "website": "https://legal.ayodhyada.in/"
+          },
+          {
+            "description": "The Property Management System provided streamlines the management of real estate properties. It features tools for tenant management, lease tracking, rent collection, maintenance requests, and financial reporting. This system ensures efficient handling of all property-related tasks, providing property owners and managers with real-time insights and automated processes to enhance operational efficiency. The user-friendly interface and comprehensive functionality make it an ideal solution for effective property management.",
+            "image": "https://firebasestorage.googleapis.com/v0/b/backendintegration-2fdc3.appspot.com/o/pr1_pr1.png?alt=media&token=5cf007f0-4184-4e36-accd-f69a48cbb291",
+            "name": "Property Management System",
+            "website": "https://oojus.com/property/Home/Home"
+          }
+        ]
+      },
+      {
+        "bannerImage": "https://firebasestorage.googleapis.com/v0/b/backendintegration-2fdc3.appspot.com/o/pr1_mainImg.png?alt=media&token=ecb5b53b-eec0-4100-a071-71fdd56e7630",
+        "derivalableImage": "https://firebasestorage.googleapis.com/v0/b/backendintegration-2fdc3.appspot.com/o/pr1_derivalables.png?alt=media&token=874cd184-a7e8-4747-a385-f7a41ed300bd",
+        "description": "The Tourism Management System by 3i Consulting is designed to enhance the travel experience for tourists and streamline operations for tourism authorities. It includes features for destination management, tour booking, itinerary planning, and visitor information services. The system integrates real-time data and analytics to provide insights into tourist behavior and preferences, helping improve service delivery. Additionally, it supports online payments, feedback collection, and customer support, ensuring a seamless and engaging experience for travelers.",
+        "name": "Tourism Management System",
+        "mainImage": "https://firebasestorage.googleapis.com/v0/b/i-consulting-website.appspot.com/o/p10.jpeg?alt=media&token=213aa847-110d-47ea-863c-59209dbd918d",
+        "projects": [
+          {
+            "description": "Chalo Chandauli is a comprehensive tourism management platform designed to promote the rich cultural and natural heritage of Chandauli, Uttar Pradesh. This platform provides detailed information about tourist attractions, accommodations, travel services, and local events. It facilitates easy booking for tours, stays, and transportation, ensuring a seamless travel experience for visitors. Additionally, Chalo Chandauli offers real-time updates and support to enhance the overall visitor experience, making Chandauli a must-visit destination.",
+            "image": "https://firebasestorage.googleapis.com/v0/b/backendintegration-2fdc3.appspot.com/o/pr1_pr1.png?alt=media&token=5cf007f0-4184-4e36-accd-f69a48cbb291",
+            "name": "Chalo Chandauli",
+            "website": "https://chandaulitourism.in/"
+          }
+        ]
+      },
+      {
+        "bannerImage": "https://firebasestorage.googleapis.com/v0/b/backendintegration-2fdc3.appspot.com/o/pr1_mainImg.png?alt=media&token=ecb5b53b-eec0-4100-a071-71fdd56e7630",
+        "derivalableImage": "https://firebasestorage.googleapis.com/v0/b/backendintegration-2fdc3.appspot.com/o/pr1_derivalables.png?alt=media&token=874cd184-a7e8-4747-a385-f7a41ed300bd",
+        "description": "The E-Dak Management System is an efficient and comprehensive web-based workflow solution designed to manage dak (correspondence) at government offices, such as the Deputy Commissioner's office. It ensures timely registration, distribution, and dispatch of incoming and outgoing dak, facilitating swift actions and responses.",
+        "name": "E-Dak Management System",
+        "mainImage": "https://firebasestorage.googleapis.com/v0/b/i-consulting-website.appspot.com/o/p11.jpeg?alt=media&token=22b42c77-b865-4b57-ab16-d1de76fc5208",
+        "projects": [
+          {
+            "description": "The E-Dak VDA VNS system, developed by 3i Consulting Pvt. Ltd., is a digital solution for managing correspondence and official communications within the Varanasi Development Authority (VDA). It allows for the efficient registration, distribution, and tracking of incoming and outgoing dak (mail). The system ensures streamlined workflow management, real-time status updates, and secure access for authorized personnel, enhancing productivity and transparency in handling official documents.",
+            "image": "https://firebasestorage.googleapis.com/v0/b/backendintegration-2fdc3.appspot.com/o/pr1_pr1.png?alt=media&token=5cf007f0-4184-4e36-accd-f69a48cbb291",
+            "name": "E-Dak VDA VNS system",
+            "website": "https://edak.vdavns.com/login"
+          }
+        ]
+      },
+      {
+        "bannerImage": "https://firebasestorage.googleapis.com/v0/b/backendintegration-2fdc3.appspot.com/o/pr1_mainImg.png?alt=media&token=ecb5b53b-eec0-4100-a071-71fdd56e7630",
+        "derivalableImage": "https://firebasestorage.googleapis.com/v0/b/backendintegration-2fdc3.appspot.com/o/pr1_derivalables.png?alt=media&token=874cd184-a7e8-4747-a385-f7a41ed300bd",
+        "description": "The Visitor & Complaint Management System by 3i Consulting is designed to streamline the management of visitor interactions and complaints within organizations. This system allows for efficient registration, tracking, and resolution of visitor queries and complaints. Key features include:\nVisitor Management: Securely register and track visitor information, appointments, and visits.\nComplaint Handling: Efficiently log, track, and resolve complaints with automated workflows and real-time status updates.\nDashboard: Comprehensive dashboards provide insights and analytics for better decision-making.\nNotifications: Automated alerts and notifications for timely responses and actions.\nThis system enhances organizational efficiency, improves customer satisfaction, and ensures transparent handling of visitor interactions and complaints.",
+        "name": "Visitor & Complaint Management System",
+        "mainImage": "https://firebasestorage.googleapis.com/v0/b/i-consulting-website.appspot.com/o/p12.jpeg?alt=media&token=e2365e0a-c2d5-4ce7-9fd8-a646590b5e03",
+        "projects": [
+          {
+            "description": "The Visitor & Complaint Management System for Ayodhya, developed by 3i Consulting Pvt. Ltd., is designed to streamline the handling of visitors and manage complaints efficiently. The system provides the following features:\nVisitor Pass Management: Allows visitors to apply for and track visitor passes online, ensuring a smooth and organized visit experience.\nomplaint Handling: Facilitates the logging, tracking, and resolution of complaints with real-time updates on complaint status. Users can enter their complaint number to check the current status and receive timely notificatio\nUser-Friendly Interface: Offers a simple and intuitive interface for both visitors and administrators, making it easy to navigate and use.\nAutomated Notifications: Sends automated alerts and notifications to visitors and staff, ensuring timely responses and updates.\nSecure Document Upload: Provides a secure platform for uploading and managing necessary documents, enhancing the overall efficiency and security of the system.",
+            "image": "https://firebasestorage.googleapis.com/v0/b/backendintegration-2fdc3.appspot.com/o/pr1_pr1.png?alt=media&token=5cf007f0-4184-4e36-accd-f69a48cbb291",
+            "name": "Visitor Management System Ayodhya",
+            "website": "hhttps://complaint.pmoay.com/"
+          }
+        ]
+      },
+      {
+        "bannerImage": "https://firebasestorage.googleapis.com/v0/b/backendintegration-2fdc3.appspot.com/o/pr1_mainImg.png?alt=media&token=ecb5b53b-eec0-4100-a071-71fdd56e7630",
+        "derivalableImage": "https://firebasestorage.googleapis.com/v0/b/backendintegration-2fdc3.appspot.com/o/pr1_derivalables.png?alt=media&token=874cd184-a7e8-4747-a385-f7a41ed300bd",
+        "description": "The E-pass Portal, implemented during the lockdown, is a dedicated web-based application developed to manage and regulate the movement of individuals and vehicles in Varanasi. This portal was crucial in ensuring that only those with valid reasons for travel could move within the city, thereby helping to control the spread of COVID-19.",
+        "name": "E-Pass Portal",
+        "mainImage": "https://firebasestorage.googleapis.com/v0/b/i-consulting-website.appspot.com/o/p13.webp?alt=media&token=666673dc-c52b-41db-86ab-27f99f8179a6",
+        "projects": [
+          {
+            "description": "The E-pass portal, launched during the lockdown, is a web-based application designed to facilitate the movement of individuals and vehicles in Varanasi. The portal allows citizens to apply for travel passes by entering their details online. It efficiently fetches and verifies user information from various web sources to ensure the authenticity and necessity of travel. The system aims to manage and control movement during the lockdown, ensuring safety and compliance with government regulations.",
+            "image": "https://firebasestorage.googleapis.com/v0/b/backendintegration-2fdc3.appspot.com/o/pr1_pr1.png?alt=media&token=5cf007f0-4184-4e36-accd-f69a48cbb291",
+            "name": "E-Pass (Varanasi)- During Lockdown",
+            "website": "#"
+          }
+        ]
+      },
+      {
+        "bannerImage": "https://firebasestorage.googleapis.com/v0/b/backendintegration-2fdc3.appspot.com/o/pr1_mainImg.png?alt=media&token=ecb5b53b-eec0-4100-a071-71fdd56e7630",
+        "derivalableImage": "https://firebasestorage.googleapis.com/v0/b/backendintegration-2fdc3.appspot.com/o/pr1_derivalables.png?alt=media&token=874cd184-a7e8-4747-a385-f7a41ed300bd",
+        "description": "The ID Card Management System by 3i Consulting is designed to streamline the process of issuing, managing, and tracking ID cards for various organizations, including educational institutions, corporate offices, and government entities. This system provides a secure and efficient way to handle all aspects of ID card management, from data entry and photo capture to card printing and distribution.",
+        "name": "ID Card Management System",
+        "mainImage": "https://firebasestorage.googleapis.com/v0/b/i-consulting-website.appspot.com/o/p14.jpeg?alt=media&token=6ba2a96b-63be-4a28-859f-b68109c631c0",
+        "projects": [
+          {
+            "description": "The ID Card Management System is a robust web-based application designed for the Ayodhya Development Authority (ADA). This system facilitates the efficient management and issuance of ID cards for ADA employees and authorized personnel. It integrates seamlessly with existing databases and systems to fetch and verify details from the ADA Complaint Portal.",
+            "image": "https://firebasestorage.googleapis.com/v0/b/backendintegration-2fdc3.appspot.com/o/pr1_pr1.png?alt=media&token=5cf007f0-4184-4e36-accd-f69a48cbb291",
+            "name": "ID Card Management System Ayodhya",
+            "website": "https://complaint.pmoay.com/ada/index.php/login"
+          }
+        ]
+      },
+      {
+        "bannerImage": "https://firebasestorage.googleapis.com/v0/b/backendintegration-2fdc3.appspot.com/o/pr1_mainImg.png?alt=media&token=ecb5b53b-eec0-4100-a071-71fdd56e7630",
+        "derivalableImage": "https://firebasestorage.googleapis.com/v0/b/backendintegration-2fdc3.appspot.com/o/pr1_derivalables.png?alt=media&token=874cd184-a7e8-4747-a385-f7a41ed300bd",
+        "description": "The Character Certificate System is a state-of-the-art web-based application designed to streamline the process of issuing character certificates to individuals. This system is essential for various purposes, such as employment, education, legal procedures, and other official requirements. It ensures a secure, efficient, and reliable means of verifying an individual's character.",
+        "name": "Character Certificate System ",
+        "mainImage": "https://firebasestorage.googleapis.com/v0/b/i-consulting-website.appspot.com/o/p14.jpeg?alt=media&token=6ba2a96b-63be-4a28-859f-b68109c631c0",
+        "projects": [
+          {
+            "description": "The Character Certificate System is an advanced web-based application developed for the Varanasi e-DM Office. This system streamlines the process of issuing character certificates to individuals for various purposes, such as employment, education, and legal requirements. The system integrates with the CharVNS portal to fetch and verify necessary details, ensuring a reliable and efficient certification process.",
+            "image": "https://firebasestorage.googleapis.com/v0/b/backendintegration-2fdc3.appspot.com/o/pr1_pr1.png?alt=media&token=5cf007f0-4184-4e36-accd-f69a48cbb291",
+            "name": "E- Character Certificate (e-DM Office)",
+            "website": "https://charvns.com/"
+          }
+        ]
+      }
+    ]
+  }
+}

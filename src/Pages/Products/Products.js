@@ -39,7 +39,7 @@ export default function Products() {
                         height: "100%",
                         objectFit: "cover",
                       }}
-                      src={item.bannerImage}
+                      src={item.mainImage}
                     />
                   </div>
                   <div className="productSection1Content productSectionAContent">
@@ -101,7 +101,7 @@ export default function Products() {
                         height: "100%",
                         objectFit: "contain",
                       }}
-                      src={item.bannerImage}
+                      src={item.mainImage}
                     />
                   </div>
                 </div>
