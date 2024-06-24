@@ -1,0 +1,252 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+@media (max-width:767px) {
+.logo {
+	text-align:center;
+}
+.logo img {
+	width:100px;
+}
+.header-row1 {
+	display:none;
+}
+.header-cont {
+	height:85px;
+	z-index:99999 !important;
+	position:relative
+}
+ .carousel, .item, {
+ height: 150px;
+}
+.carousel-inner {
+	height: 150px;
+}
+.carousel-inner {
+	height: 150px;
+}
+/* Background images are set within the HTML using inline CSS, not here */
+
+.fill {
+	width: 100%;
+	height: 150px;
+	background-position: center;
+	-webkit-background-size: 100% contain;
+	-moz-background-size: 100% contain;
+	background-size: 100% contain;
+	-o-background-size: 100% contain;
+}
+.header-row2 {
+	margin-top: 5px;
+}
+.home-heading {
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+.home-heading h1, .home-heading h2, .home-heading h3, .home-heading h4, .home-heading h5, .home-heading h6 {
+	font-size:35px;
+	font-family: 'Roboto Condensed', sans-serif;
+}
+.welcome-heading h2 {
+	line-height: 34px;
+}
+.welcome-cont {
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+.count-number {
+	font-size: 30px;
+}
+.counts {
+	font-size: 19px;
+	margin-bottom:25px;
+}
+.counts i {
+	font-size: 40px;
+}
+.leftline {
+	border-right: #444444 solid 1px;
+	min-height: auto;
+}
+.copyrights {
+	text-align:center;
+}
+.services-txt {
+	min-height: auto;
+	padding:0px 10px;
+}
+.services p {
+	margin-bottom: 15px;
+}
+.arrow {
+	padding-right: 25px;
+}
+.top-social ul {
+	text-align:center;
+	width:100%;
+	margin-top:5px;
+}
+.small-blog-thumb {
+	margin-bottom: 25px;
+}
+.boderright {
+	border:none
+}
+.bodertop {
+	border:none
+}
+.home-services-cont .nav-tabs li {
+	font-size: 22px;
+}
+.home-services-cont .nav-tabs > li {
+	width: 100%;
+}
+.inner-pagecont {
+	margin-top: 20px;
+}
+.product-details-cont {
+	min-height:50px;
+}
+.prodetails-txt1 h2 {
+	font-size: 25px;
+}
+.inner-heading h3 {
+	font-size: 38px;
+}
+.product-feature-heading {
+	font-size: 22px;
+	line-height: 25px;
+}
+.product-feature1 {
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+.inner-heading h3 {
+	font-size: 26px;
+}
+.borderbottom {
+	margin-bottom: 0px;
+}
+.product-details-cont img {
+	width:150px;
+}
+.product-details h1 {
+	font-size: 31px;
+}
+.profeature-img {
+	width:100%;
+	float:left;
+	text-align:center;
+}
+.product-list strong {
+	min-height: 15px;
+}
+.services-left img {
+	width:250px;
+}
+.innerpage-heading {
+	padding: 20px 0px 20px 0px;
+}
+.inner-pagecont h1 {
+	font-size:35px;
+}
+}
+@media (min-width:768px) and (max-width:991px) {
+ .carousel, .item, {
+ height: 350px;
+}
+.carousel-inner {
+	height: 350px;
+}
+.carousel-inner {
+	height: 350px;
+}
+/* Background images are set within the HTML using inline CSS, not here */
+
+.fill {
+	width: 100%;
+	height: 350px;
+	background-position: center;
+	-webkit-background-size: 100% contain;
+	-moz-background-size: 100% contain;
+	background-size: 100% contain;
+	-o-background-size: 100% contain;
+}
+.header-row2 {
+	margin-top: 10px;
+}
+.header-cont {
+	height:100px;
+	z-index:99999 !important;
+	position:relative
+}
+.services p {
+	margin-bottom: 15px;
+}
+.services-txt {
+	min-height: 154px;
+}
+.services-heading {
+	font-size: 22px;
+}
+.welcome-heading h2 {
+	font-size: 50px;
+	line-height: 44px;
+}
+.home-heading {
+	margin-top: 20px;
+	margin-bottom:20px;
+}
+.home-heading h1, .home-heading h2, .home-heading h3, .home-heading h4, .home-heading h5, .home-heading h6 {
+	font-size: 37px;
+}
+.inner-pagecont {
+	margin-top: 20px;
+}
+.product-details-cont {
+	min-height: 540px;
+}
+.prodetails-txt1 h2 {
+	font-size: 31px;
+}
+.inner-heading h3 {
+	font-size: 38px;
+}
+.services-left img {
+	width:250px;
+}
+.innerpage-heading {
+	padding: 20px 0px 20px 0px;
+}
+}
+@media (min-width:992px) and (max-width:1199px) {
+.orion-menu li a {
+	padding: 5px 7px 5px 7px;
+}
+ .carousel, .item, {
+ height: 550px;
+}
+.carousel-inner {
+	height: 550px;
+}
+.carousel-inner {
+	height: 550px;
+}
+/* Background images are set within the HTML using inline CSS, not here */
+
+.fill {
+	width: 100%;
+	height: 550px;
+	background-position: center;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	background-size: cover;
+	-o-background-size: cover;
+}
+}
+@media (min-width:1200px) {
+.hidden-lg {
+	display:none!important
+}
+}

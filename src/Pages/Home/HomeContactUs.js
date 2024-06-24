@@ -22,44 +22,48 @@ function HomeContactUs() {
           </h2>
           <div className="icons">
             <div className="d-flex align-items-center">
-              
               <img
                 style={{ width: "70px", height: "70px", objectFit: "cover" }}
                 src={phoneIcon}
               />
               <p className="mb-0">
-                Phone Number: <br /> <NavLink> +0120 4732518 </NavLink>{" "}
+                Phone Number: <br />{" "}
+                <span style={{ color: "#007bff" }}> +91 914 086 0949 </span>{" "}
               </p>
             </div>
-            <div className="d-flex align-items-center">
-            
+            <div
+              style={{ marginTop: 20, marginBottom: 20 }}
+              className="d-flex "
+            >
               <img
                 style={{ width: "70px", height: "70px", objectFit: "cover" }}
                 src={mapIcon}
               />
               <p className="mb-0">
-                
                 Office Address: <br />{" "}
-                <NavLink>
-                  
-                  Unit - 9, H-25, Sector 63, Noida 201301{" "}
-                </NavLink>{" "}
+                <span style={{ color: "#007bff" }}>
+                  N. 12/304, Triplex-3, <br /> J-56 Shivraj Nagar Colony,
+                  <br />
+                  Mahmoorganj, Varanasi.
+                </span>
               </p>
             </div>
             <div className="d-flex align-items-center">
-             
               <img
                 style={{ width: "70px", height: "70px", objectFit: "cover" }}
                 src={mailIcon}
               />
               <p className="mb-0">
-               
-                Mail Address: <br /> <NavLink> info@3iconsulting.in </NavLink>
+                Mail Address: <br />{" "}
+                <span style={{ color: "#007bff" }}> info@3icounsulting.in</span>
               </p>
             </div>
           </div>
         </div>
-        <div style={{width: 'fit-content' , height: 'fit-content'}} className="hContactImg w-25">
+        <div
+          style={{ width: "fit-content", height: "fit-content" }}
+          className="hContactImg w-25"
+        >
           <img
             style={{ width: "100%", height: "100%", objectFit: "cover" }}
             src={ladyImg}
@@ -67,10 +71,15 @@ function HomeContactUs() {
         </div>
         <div className="hContactForm">
           <div class="container">
-           <div>
-           <h1>Get In Touch!</h1>
-            <span style={{backgroundColor: '#0D98D9' , height: '10px'}} className="d-inline-block w-50">&nbsp;</span>
-           </div>
+            <div>
+              <h1>Get In Touch!</h1>
+              <span
+                style={{ backgroundColor: "#0D98D9", height: "10px" }}
+                className="d-inline-block w-50"
+              >
+                &nbsp;
+              </span>
+            </div>
             <div class="row">
               <div class="col-md-12">
                 <form>
@@ -93,9 +102,9 @@ function HomeContactUs() {
                     />
                   </div>
                   <div class="form-group">
-                  <label for="formMsg">Your Message</label>
+                    <label for="formMsg">Your Message</label>
                     <textarea
-                    id="formMsg"
+                      id="formMsg"
                       class="form-control"
                       aria-label="With textarea"
                     ></textarea>

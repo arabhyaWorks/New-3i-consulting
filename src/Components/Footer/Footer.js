@@ -41,7 +41,7 @@ function Footer() {
                     />
                     <p className="mb-0 ml-2">
                       Call us <br />
-                      0120 4732518
+                      +91 914 086 0949
                     </p>
                   </div>
                   <div className="d-flex align-items-center">
@@ -69,7 +69,9 @@ function Footer() {
                     />
                     <p className="mb-0 ml-2">
                       Location <br />
-                      Unit - 9, H-25, Sector <br /> 63, Noida - 201301.
+                      N. 12/304, Triplex-3, <br /> J-56 Shivraj Nagar Colony,
+                      <br />
+                      Mahmoorganj, Varanasi.
                     </p>
                   </div>
                 </div>

@@ -10,6 +10,28 @@ import expertImg from "../../Assets/Images/1.png";
 import expertImg2 from "../../Assets/Images/2(2).png";
 import expertImg3 from "../../Assets/Images/Group 11670.png";
 
+import one from "../../Assets/team/1.png";
+
+import Marquee from "react-fast-marquee";
+
+const ImageCard = ({ source, name, designation }) => {
+  return (
+    <div
+      className="cardContainer"
+      style={{
+        backgroundImage: `url(${require("../../Assets/team/" +
+          source +
+          ".png")})`,
+      }}
+    >
+      <div className="cardContent">
+        <h4 className="name">{name}</h4>
+        <p className="designation">{designation}</p>
+      </div>
+    </div>
+  );
+};
+
 function AboutUs() {
   return (
     <>
@@ -137,46 +159,139 @@ function AboutUs() {
             </h6>
             <h1 className="mb-3 font-weight-bold"> Meet Our Experts </h1>
           </div>
-          <div
-            id="carouselExampleControl2"
-            class="carousel slide"
-            data-intervall="false"
+
+          <h2
+            style={{ marginTop: 40 }}
+            className="mb-0 font-weight-bold text-center"
           >
-            <div class="carousel-inner">
-              <div class="carousel-item active">
-                <div class="row contactRow mb-5">
-                  <div class="col-md-3 contactCol">
-                    <div class="card contactCard">
-                      <img
-                        class="card-img-top contactCardImg"
-                        src={expertImg}
-                        alt="Card image cap"
-                      />
-                    </div>
-                  </div>
+            Management Team
+          </h2>
 
-                  <div class="col-md-3 contactCol">
-                    <div class="card contactCard">
-                      <img
-                        class="card-img-top contactCardImg"
-                        src={expertImg2}
-                        alt="Card image cap"
-                      />
-                    </div>
-                  </div>
+          <div className="executives">
+            <Marquee speed={100} pauseOnHover={true}>
+              <ImageCard
+                source={"1"}
+                name="Suresh Verma"
+                designation="Chief Operating officer"
+              />
 
-                  <div class="col-md-3 contactCol">
-                    <div class="card contactCard">
-                      <img
-                        class="card-img-top contactCardImg"
-                        src={expertImg3}
-                        alt="Card image cap"
-                      />
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
+              <ImageCard
+                source={"2"}
+                name="Vishnukant Maurya"
+                designation="Chief Technological Officer"
+              />
+
+              <ImageCard
+                source={"3"}
+                name="Shacheesh Mishra"
+                designation="Head of Operations"
+              />
+
+              <ImageCard
+                source={"4"}
+                name="Alok Singh"
+                designation="Chief Managing Consultant"
+              />
+
+              <ImageCard
+                source={"5"}
+                name="Amit Tomar"
+                designation="Head Strategy and Marketing"
+              />
+            </Marquee>
+          </div>
+
+          <h2
+            style={{ marginTop: 40 }}
+            className="mb-0 font-weight-bold text-center"
+          >
+            Our Key Members
+          </h2>
+
+          <div style={{ marginBottom: 40 }} className="executives">
+            <Marquee speed={100} pauseOnHover={true}>
+              <ImageCard
+                source={"6"}
+                name="Ashutosh"
+                designation="Sr Consultant (Marketing)"
+              />
+
+              <ImageCard
+                source={"7"}
+                name="Sambhrant"
+                designation="Sr Consultant IT & Client Communication"
+              />
+
+              <ImageCard
+                source={"8"}
+                name="Rajnish"
+                designation="Consulant E-Marketplace"
+              />
+
+              <ImageCard
+                source={"9"}
+                name="Arpit"
+                designation="Sr Consultant (Technical Support)"
+              />
+
+              <ImageCard
+                source={"10"}
+                name="Anand"
+                designation="Consultant (Creative and Social Media)"
+              />
+
+              <ImageCard
+                source={"11"}
+                name="Sameer"
+                designation="Consultant (Mobile Applications)"
+              />
+
+              <ImageCard
+                source={"12"}
+                name="Sanjeev"
+                designation="Team Lead (Key Accounts)"
+              />
+
+              <ImageCard
+                source={"13"}
+                name="Pawan"
+                designation="Team Lead (Development)"
+              />
+
+              <ImageCard
+                source={"14"}
+                name="Shani"
+                designation="Sr Developer"
+              />
+
+              <ImageCard
+                source={"15"}
+                name="Animesh"
+                designation="Technology Advisor"
+              />
+
+              <ImageCard source={"16"} name="Shubham" designation="Developer" />
+
+              <ImageCard source={"17"} name="Shalini" designation="Developer" />
+
+              <ImageCard source={"18"} name="Naisadh" designation="Developer" />
+
+              <ImageCard
+                source={"19"}
+                name="Vivek Pandey"
+                designation="Accounts and Sr Consultant Staffing"
+              />
+
+              <ImageCard source={"20"} name="Hemant" designation="Consultant" />
+
+              <ImageCard
+                source={"21"}
+                name="Annapurna"
+                designation="Marketing & Customer relationship"
+              />
+
+              <ImageCard source={"22"} name="Sarita" designation="Accounts" />
+            </Marquee>
           </div>
         </div>
       </div>

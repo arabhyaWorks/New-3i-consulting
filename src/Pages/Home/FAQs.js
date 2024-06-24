@@ -25,7 +25,9 @@ function FAQs() {
                   data-toggle="collapse"
                   href="#collapseOne"
                 >
-                  <a class="card-title">What services do you offer?</a>
+                  <a class="card-title">
+                    What services does 3i Consulting offer?
+                  </a>
                 </div>
                 <div
                   id="collapseOne"
@@ -33,17 +35,13 @@ function FAQs() {
                   data-parent="#accordion"
                 >
                   <p>
-                    Anim pariatur cliche reprehenderit, enim eiusmod high life
-                    accusamus terry richardson ad squid. 3 wolf moon officia
-                    aute, non cupidatat skateboard dolor brunch. Food truck
-                    quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor,
-                    sunt aliqua put a bird on it squid single-origin coffee
-                    nulla assumenda shoreditch et. Nihil anim keffiyeh
-                    helvetica, craft beer labore wes anderson cred nesciunt
-                    sapiente ea proident. Ad vegan excepteur butcher vice lomo.
-                    Leggings occaecat craft beer farm-to-table, raw denim
-                    aesthetic synth nesciunt you probably haven't heard of them
-                    accusamus labore sustainable VHS.
+                    3i Consulting provides a wide range of services including
+                    cloud solutions, digital security, tech consulting, help
+                    desk and support, and specialized systems like HRMS, temple
+                    management systems, legal case management, property
+                    management, and more. We focus on delivering scalable,
+                    secure, and cost-effective technology solutions tailored to
+                    our clients' needs.
                   </p>
                 </div>
                 <div
@@ -52,7 +50,9 @@ function FAQs() {
                   data-parent="#accordion"
                   href="#collapseTwo"
                 >
-                  <a class="card-title">How can you help with e-governance?</a>
+                  <a class="card-title">
+                    How does 3i Consulting ensure the security of my data?
+                  </a>
                 </div>
                 <div
                   id="collapseTwo"
@@ -60,17 +60,11 @@ function FAQs() {
                   data-parent="#accordion"
                 >
                   <p>
-                    Anim pariatur cliche reprehenderit, enim eiusmod high life
-                    accusamus terry richardson ad squid. 3 wolf moon officia
-                    aute, non cupidatat skateboard dolor brunch. Food truck
-                    quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor,
-                    sunt aliqua put a bird on it squid single-origin coffee
-                    nulla assumenda shoreditch et. Nihil anim keffiyeh
-                    helvetica, craft beer labore wes anderson cred nesciunt
-                    sapiente ea proident. Ad vegan excepteur butcher vice lomo.
-                    Leggings occaecat craft beer farm-to-table, raw denim
-                    aesthetic synth nesciunt you probably haven't heard of them
-                    accusamus labore sustainable VHS.
+                    Our digital security services are designed to protect your
+                    data through advanced encryption, secure access controls,
+                    and compliance with industry standards. We implement robust
+                    security protocols to safeguard sensitive information from
+                    unauthorized access and cyber threats.
                   </p>
                 </div>
                 <div
@@ -79,7 +73,9 @@ function FAQs() {
                   data-parent="#accordion"
                   href="#collapseThree"
                 >
-                  <a class="card-title">What industries do you serve?</a>
+                  <a class="card-title">
+                    Can 3i Consulting help with large-scale tech projects
+                  </a>
                 </div>
                 <div
                   id="collapseThree"
@@ -87,12 +83,11 @@ function FAQs() {
                   data-parent="#accordion"
                 >
                   <div class="card-body">
-                    Anim pariatur cliche reprehenderit, enim eiusmod high life
-                    accusamus terry richardson ad squid. 3 wolf moon officia
-                    aute, non cupidatat skateboard dolor brunch. Food truck
-                    quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor,
-                    sunt aliqua put a bird on it squid single-origin coffee
-                    nulla assumenda shoreditch et. samus labore sustainable VHS.
+                    Yes, 3i Consulting specializes in tech consulting, providing
+                    end-to-end solutions for large-scale projects. Our services
+                    include developing comprehensive tech architecture, ensuring
+                    project scalability, managing cloud resources, selecting
+                    appropriate servers, and ensuring robust security measures.
                   </div>
                 </div>
                 {/*  */}
@@ -102,7 +97,10 @@ function FAQs() {
                   data-parent="#accordion"
                   href="#collapseFour"
                 >
-                  <a class="card-title">Do you provide support?</a>
+                  <a class="card-title">
+                    How does 3i Consulting support its clients
+                    post-implementation?
+                  </a>
                 </div>
                 <div
                   id="collapseFour"
@@ -110,12 +108,12 @@ function FAQs() {
                   data-parent="#accordion"
                 >
                   <div class="card-body">
-                    Anim pariatur cliche reprehenderit, enim eiusmod high life
-                    accusamus terry richardson ad squid. 3 wolf moon officia
-                    aute, non cupidatat skateboard dolor brunch. Food truck
-                    quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor,
-                    sunt aliqua put a bird on it squid single-origin coffee
-                    nulla assumenda shoreditch et. samus labore sustainable VHS.
+                    We offer dedicated help desk and support services to assist
+                    clients post-implementation. Our support team is available
+                    to handle inquiries, troubleshoot issues, manage refunds and
+                    cancellations, and ensure smooth operation of the deployed
+                    systems. We also provide continuous monitoring and updates
+                    to keep the systems running efficiently.
                   </div>
                 </div>
                 <div
@@ -132,24 +130,28 @@ function FAQs() {
                   data-parent="#accordion"
                 >
                   <div class="card-body">
-                    Anim pariatur cliche reprehenderit, enim eiusmod high life
-                    accusamus terry richardson ad squid. 3 wolf moon officia
-                    aute, non cupidatat skateboard dolor brunch. Food truck
-                    quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor,
-                    sunt aliqua put a bird on it squid single-origin coffee
-                    nulla assumenda shoreditch et. samus labore sustainable VHS.
+                    Our headquarters is located at N. 12/304, Triplex-3, J-56
+                    Shivraj Nagar Colony, Mahmoorganj, Varanasi.You can contact
+                    us via email at info@3icounsulting.in, call us at
+                    +91-9140860949, or fill out the contact form below.
                   </div>
                 </div>
               </div>
             </div>
             <div>
-        <h5 className="font-weight-bold">Still have questions?</h5>
-        <p className="text-muted">Contact us for more information or to get started. </p>
-        <button style={{backgroundColor: '#37393F'}} className="btn text-white">Contact us</button>
-        </div>
+              <h5 className="font-weight-bold">Still have questions?</h5>
+              <p className="text-muted">
+                Contact us for more information or to get started.{" "}
+              </p>
+              <button
+                style={{ backgroundColor: "#37393F" }}
+                className="btn text-white"
+              >
+                Contact us
+              </button>
+            </div>
           </div>
         </div>
-        
       </div>
     </>
   );
