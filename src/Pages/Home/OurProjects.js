@@ -86,12 +86,12 @@ function OurProjects() {
                     <div class="card-body projectCardBody">
                       <h4 className="card-title projectCardTitle">Lab Mitra</h4>
                       <h6 class="card-text projectCardText">
-                        Super App for tourism in Shri Ayodhya ji
+                        Pathology reporting system
                       </h6>
                       <p>
                         <span>Government </span>
                         <span>Infrastructure </span>
-                        <span>Tourism </span>
+                        <span>Health </span>
                       </p>
                     </div>
                   </div>

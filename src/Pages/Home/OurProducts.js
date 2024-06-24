@@ -21,9 +21,10 @@ function OurProducts() {
               <img src={Logo3} /> Temple Management System
             </h2>
             <p>
-              Our technical consultancy services provide expert guidance and
-              support to help you navigate complex technological challenges,
-              ensuring optimal performance and efficiency.
+              Temple Management System offers an integrated solution for
+              managing temple operations, including online booking for pujas and
+              darshans, donation management, and comprehensive dashboards for
+              efficient administration.
             </p>
           </div>
           <div className="productText">
@@ -32,9 +33,11 @@ function OurProducts() {
               <img src={Logo1} /> HRMS Solutions
             </h2>
             <p>
-              Our SAP solutions empower businesses by leveraging advanced
-              technology to streamline operations, boost productivity, and fuel
-              expansion.
+              HRMS is a comprehensive solution designed to streamline and
+              enhance the management of human resources within an organization.
+              Tailored specifically for the government organization, this system
+              integrates various HR functions into a single platform, ensuring
+              efficient and effective management of employee-related processes.
             </p>
           </div>
 
@@ -43,9 +46,12 @@ function OurProducts() {
               <img src={Logo2} /> Project Management System
             </h2>
             <p>
-              Our mobile solutions leverage the latest advancements in mobile
-              technology to create intuitive and engaging experiences for your
-              users, enabling you to reach them anytime, anywhere.
+              Program Management System aims to empower organizations with the
+              tools they need to manage complex projects effectively and
+              efficiently. By integrating advanced project management techniques
+              with cutting-edge technology, we strive to support organizations
+              in delivering successful projects that meet their goals and exceed
+              stakeholder expectations.
             </p>
           </div>
         </div>

@@ -17,19 +17,19 @@ const testimonials = [
     img: testimonialProfile1,
     name: "Vishal Singh",
     position: "DM, Bhadohi",
-    text: "Financial expertise has made a significant impact on our nonprofit financial stability, allowing us to better serve our community",
+    text: "3i Consulting is an exceptional company. We collaborated with them on the Bhadohi Booth Sarthi project, and they delivered outstanding results in a remarkably short time. They developed a robust, secure, and scalable platform to help voters locate their booths efficiently. Their expertise and dedication to the project were truly impressive.",
   },
   {
     img: testimonialProfile2,
     name: "Girish Pati Tripathi",
     position: "Mayor, Ayodhya",
-    text: "Financial planning and investment advice I received from this team completely transformed my future. I couldn't be happier with the results.",
+    text: "3i Consulting has greatly enhanced our e-governance capabilities. They developed the Nagar Nigam Ayodhya app, improving our interaction with citizens and streamlining municipal services. Their management of our social media presence has also increased our outreach and engagement. Their dedication to high-quality solutions is exceptional.",
   },
   {
     img: testimonialProfile3,
     name: "Vishwa Bhusan Mishra",
     position: "CEO, SKVT",
-    text: "Estate planning is crucial, and they made the process seamless and stress-free. I can rest assured knowing family's future is secure",
+    text: "3i Consulting has been invaluable for the Shri Kashi Vishwanath Temple Trust. Their digital solutions, including the SKVT website, app, puja booking dashboard, and the Shri Kashi Prasadam e-commerce domain, have improved our operations and service delivery. Their commitment to excellence and user-friendly solutions is truly commendable.",
   },
 ];
 

@@ -172,7 +172,7 @@ function AboutUs() {
               <ImageCard
                 source={"1"}
                 name="Suresh Verma"
-                designation="Chief Operating officer"
+                designation="Chief Operating Officer"
               />
 
               <ImageCard
