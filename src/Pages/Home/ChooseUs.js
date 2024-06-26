@@ -18,8 +18,8 @@ function ChooseUs() {
           <div className="chooseUsHeading text-center my-5 mr-5">
             <h1 className="font-weight-bold">
               {" "}
-              Why choose{" "}
-              <span style={{ color: "#0D98D9" }}>3i- Consulting</span>?{" "}
+              Why choose <span style={{ color: "#0D98D9" }}>3i Consulting</span>
+              ?{" "}
             </h1>
             <p className="px-5">
               At 3i-Consulting, we pride ourselves on our team of highly

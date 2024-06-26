@@ -149,7 +149,7 @@ function AboutUs() {
               revolutionizing the way.
             </p> */}
           </div>
-          {/* the visibility of this div is hidden */}
+
         </div>
 
         <div className="container-fluid p-0 mt-5 contactSection">

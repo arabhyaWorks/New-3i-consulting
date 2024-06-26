@@ -5,7 +5,7 @@ import techImg from "../../Assets/Images/Group 11659.svg";
 import appImg from "../../Assets/Images/Group 11658.svg";
 import digitalMediaImg from "../../Assets/Images/Group 11657.svg";
 import cloudImg from "../../Assets/Images/Group 11656.svg";
-import digitalImg from "../../Assets/Images/Group 11658.svg";
+import digitalImg from "../../Assets/Images/Group 11655.svg";
 import helpdeskImg from "../../Assets/Images/Group 11653.svg";
 import serverImg from "../../Assets/Images/Group 11659.svg";
 import moreImg from "../../Assets/Images/add.svg";
@@ -18,7 +18,7 @@ function Home_Services() {
         <div className="text-center pt-5">
           <h6 className="">
             {" "}
-            <img src={blueSquareImg} /> We Are Expertise In{" "}
+            <img src={blueSquareImg} /> We Are Expert In{" "}
           </h6>
           <h3 className="">
             We Provide Professional <br />

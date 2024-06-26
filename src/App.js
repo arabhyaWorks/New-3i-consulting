@@ -10,10 +10,8 @@ import Contact from "./Pages/Contact/Contact";
 import Products from "./Pages/Products/Products";
 import Service from "./Pages/Service/Service";
 import DetailedProduct from "./Components/DetailedProduct/DetailedProduct";
-// import { AllProduct } from './Context/AllProduct';
 
 function App() {
-  // console.log(AllProduct);
   return (
     <div className="App">
       <Header />
